@@ -2,7 +2,7 @@
 
 This repo contains the artifacts for our project **Understanding the Impact of Graph Diffusion onRobust Graph Learning** as part of CS6604: 'Data Challenges in Machine Learning' course.
 
-The project report can be accessed from [here](https://deeprobust.readthedocs.io/en/latest/).
+The project report can be accessed from [here](https://github.com/satvikchekuri/DiffusionGraphRobustness/blob/main/examples/graph/figures/report.pdf).
 
 ## Acknowledgment
 
@@ -91,3 +91,5 @@ $2 = Dataset [Options: cora, cora_ml, citeseer, polblogs, pubmed]
 $3 = Perturbation Ratio [ptions: 0.05, 0.1, 0.15, 0.2, 0.25]
 
 The output would be test-loss & accuracy for a clean graph, perturbed graph, and diffused graph with perturbation. 
+
+We faced issues with running diffusion experiments on PubMed dataset due to GPU memory. Please be careful when running on that dataset as the system might freeze.
