@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="" />
+    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,8 +124,16 @@
       <workItem from="1620693283718" duration="179000" />
       <workItem from="1620755307981" duration="1644000" />
       <workItem from="1620757495987" duration="260000" />
-      <workItem from="1620757762802" duration="1584000" />
+      <workItem from="1620757762802" duration="1973000" />
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1620759561136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620759561136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +150,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1620755928262">
