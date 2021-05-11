@@ -17,10 +17,14 @@ deeprobust==0.2.1 (Installation steps [here](https://deeprobust.readthedocs.io/e
 
 
 
-### Versions used to run experiments on the repo owner's system
+### Versions of software/libraries/OS used to run experiments on the repo owner's system
 CUDA: 10.1
 
 PyTorch: 1.8.1
+
+Python: 3.8
+
+Ubuntu 18.04
 
 ## Implemented Models 
 
