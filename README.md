@@ -1,6 +1,6 @@
 # DiffusionGraphRobustness
 
-This repo contains the artifacts for our project **Understanding the Impact of Graph Diffusion onRobust Graph Learning** as part of CS6604: 'Data Challenges in Machine Learning' course.
+This repo contains the artifacts for our project **Understanding the Impact of Graph Diffusion on Robust Graph Learning** as part of CS6604: 'Data Challenges in Machine Learning' course.
 
 The project report can be accessed from [here](https://github.com/satvikchekuri/DiffusionGraphRobustness/blob/main/examples/graph/figures/report.pdf).
 
