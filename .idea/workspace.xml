@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="push">
+    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="push1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gdc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DiffusionGraphRobustness1" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -137,7 +138,7 @@
       <workItem from="1620693283718" duration="179000" />
       <workItem from="1620755307981" duration="1644000" />
       <workItem from="1620757495987" duration="260000" />
-      <workItem from="1620757762802" duration="3111000" />
+      <workItem from="1620757762802" duration="7623000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1620759561136</created>
@@ -167,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620760235023</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="push1">
+      <created>1620760885143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620760885143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,13 +195,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="push1" />
+    <option name="LAST_COMMIT_MESSAGE" value="push1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1620755928262">
+    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1620761687296">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
-    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620755928262" />
+    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620761687296" />
     <state width="2447" height="397" key="GridCell.Tab.0.bottom" timestamp="1620097338792">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
@@ -214,10 +223,10 @@
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="802" y="367" key="SettingsEditor/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620760081154" />
-    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1620760237471">
+    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1620760892857">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
-    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620760237471" />
+    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620760892857" />
     <state x="1094" y="647" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620759762084">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
