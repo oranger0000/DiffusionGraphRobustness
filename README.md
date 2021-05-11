@@ -25,7 +25,7 @@ PyTorch: 1.8.1
 ## Implemented Models 
 
 <p align="center">
-<img center src="https://github.com/DSE-MSU/DeepRobust/blob/master/adversary_examples/Deeprobust.png" width = "350" alt="logo">
+<img center src="https://github.com/satvikchekuri/DiffusionGraphRobustness/blob/main/examples/graph/figures/graph.PNG" width = "450" alt="logo">
 </p>
 
 **Attack method: Metattack**
@@ -49,6 +49,10 @@ Domain: Node Classification; [Paper](https://arxiv.org/abs/1710.10903)
 [Paper](https://arxiv.org/pdf/1911.05485.pdf)
 
 ## Datasets
+
+<p align="center">
+<img center src="https://github.com/satvikchekuri/DiffusionGraphRobustness/blob/main/examples/graph/figures/graph1.PNG" width = "450" alt="logo">
+</p>
 
 The 'cora', 'cora-ml', 'polblogs' and 'citeseer' are downloaded from [here](https://github.com/danielzuegner/gnn-meta-attack/tree/master/data), and 'pubmed' is from [here](https://github.com/tkipf/gcn/tree/master/gcn/data).
 

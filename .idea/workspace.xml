@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="push1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="readme update">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +137,7 @@
       <workItem from="1620693283718" duration="179000" />
       <workItem from="1620755307981" duration="1644000" />
       <workItem from="1620757495987" duration="260000" />
-      <workItem from="1620757762802" duration="7623000" />
+      <workItem from="1620757762802" duration="7779000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1620759561136</created>
@@ -175,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620760885143</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="readme update">
+      <created>1620765403371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620765403371</updated>
+    </task>
+    <task id="LOCAL-00007" summary="readme update">
+      <created>1620765457432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620765457432</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +209,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
     <MESSAGE value="push1" />
-    <option name="LAST_COMMIT_MESSAGE" value="push1" />
+    <MESSAGE value="readme update" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1620761687296">
@@ -223,10 +237,10 @@
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="802" y="367" key="SettingsEditor/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620760081154" />
-    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1620760892857">
+    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1620765459230">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
-    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620760892857" />
+    <state x="908" y="454" width="800" height="556" key="Vcs.Push.Dialog.v2/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620765459230" />
     <state x="1094" y="647" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620759762084">
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
