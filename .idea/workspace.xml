@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="26b4667f-2638-47af-a70f-27456467bcb0" />
+  <component name="ProjectId" id="1s1iTZL3nVPWEQbnwlgcDavUvBW" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gdc" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/graph" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_chebnet">
+    <configuration name="test_chebnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepRobust" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/graph/test_chebnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DeepRobust" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/graph/test_visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_chebnet" />
+        <item itemvalue="Python.test_visualization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="609f9b81-fc5f-4c76-8f8e-83043d417cde" name="Default Changelist" comment="" />
+      <created>1620046505416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620046505416</updated>
+      <workItem from="1620046506499" duration="11190000" />
+      <workItem from="1620085202225" duration="587000" />
+      <workItem from="1620085916303" duration="11422000" />
+      <workItem from="1620097360501" duration="14325000" />
+      <workItem from="1620116380397" duration="208000" />
+      <workItem from="1620116618230" duration="77000" />
+      <workItem from="1620116743209" duration="116000" />
+      <workItem from="1620117077616" duration="3654000" />
+      <workItem from="1620120938427" duration="2632000" />
+      <workItem from="1620124651557" duration="15000" />
+      <workItem from="1620125095407" duration="547000" />
+      <workItem from="1620496355755" duration="759000" />
+      <workItem from="1620497205927" duration="412000" />
+      <workItem from="1620498060336" duration="599000" />
+      <workItem from="1620692608086" duration="339000" />
+      <workItem from="1620693283718" duration="179000" />
+      <workItem from="1620755307981" duration="1644000" />
+      <workItem from="1620757495987" duration="260000" />
+      <workItem from="1620757762802" duration="1584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl" timestamp="1620755928262">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="1096" y="490" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620755928262" />
+    <state width="2447" height="397" key="GridCell.Tab.0.bottom" timestamp="1620097338792">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="397" key="GridCell.Tab.0.bottom/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620097338792" />
+    <state width="2447" height="397" key="GridCell.Tab.0.center" timestamp="1620097338792">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="397" key="GridCell.Tab.0.center/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620097338792" />
+    <state width="2447" height="397" key="GridCell.Tab.0.left" timestamp="1620097338792">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="397" key="GridCell.Tab.0.left/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620097338792" />
+    <state width="2447" height="397" key="GridCell.Tab.0.right" timestamp="1620097338792">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2447" height="397" key="GridCell.Tab.0.right/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1620097338792" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DeepRobust$test_chebnet.coverage" NAME="test_chebnet Coverage Results" MODIFIED="1620090929259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/graph" />
+    <SUITE FILE_PATH="coverage/DeepRobust$test_visualization.coverage" NAME="test_visualization Coverage Results" MODIFIED="1620073677224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/graph" />
+  </component>
+</project>
