@@ -25,7 +25,7 @@ PyTorch: 1.8.1
 ## Implemented Models 
 
 <p align="center">
-<img center src="https://github.com/satvikchekuri/DiffusionGraphRobustness/blob/main/examples/graph/figures/graph.PNG" width = "450" alt="logo">
+<img center src="https://github.com/satvikchekuri/DiffusionGraphRobustness/blob/main/examples/graph/figures/graph.PNG" width = "650" alt="logo">
 </p>
 
 **Attack method: Metattack**
