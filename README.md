@@ -13,6 +13,7 @@ Attack model and base Graph Neural Networks was implemented in or project using 
 It is advised to create a new environment and install the below packages along with PyTorch.
 
 torch-geometric==1.7.0 (Installation steps [here](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html))
+
 deeprobust==0.2.1 (Installation steps [here](https://deeprobust.readthedocs.io/en/latest/notes/installation.html))
 
 
